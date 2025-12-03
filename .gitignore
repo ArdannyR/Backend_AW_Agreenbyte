@@ -1,3 +1,7 @@
+.env
+
+env.txt
+
 # Ignorar dependencias en cualquier carpeta
 node_modules/
 
